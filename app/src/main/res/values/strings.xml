@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Applicationn</string>
+    <string name="search_by_name">search by name</string>
+    <string name="image">image</string>
+</resources>
